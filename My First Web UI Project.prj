@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>Katalon-Project2</name>
+   <name>My First Web UI Project</name>
    <tag></tag>
-   <UUID>783adf37-2f8a-404f-8ab9-1cf9fc3e98f0</UUID>
+   <UUID>a9fcb165-52a7-4647-8420-c180fe8494a1</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/Users/bhagyesh/Katalon Studio/My First Web UI Project/My First Web UI Project.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
@@ -24,5 +25,5 @@
          </systemFolderConfiguration>
       </systemFolderList>
    </sourceContent>
-   <type>GENERIC</type>
+   <type>WEBUI</type>
 </Project>

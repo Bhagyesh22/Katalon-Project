@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case basically logs in into a website with different credentials and refllects use of custom keyword in katalon</description>
+   <name>Example For Using Custom Keyword</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>766bbdb2-2d47-46e9-a6a9-1eb3684a895d</testCaseGuid>
+</TestCaseEntity>

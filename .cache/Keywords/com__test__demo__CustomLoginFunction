@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "CB93DC57E88A33171D44F7D4397F98C0",
+  "keywordClasses": [
+    {
+      "name": "com.test.demo.CustomLoginFunction",
+      "keywordMethods": [
+        {
+          "name": "login",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

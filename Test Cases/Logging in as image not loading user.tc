@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Logging in as an user for whom images wont load</description>
+   <name>Logging in as image not loading user</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <testCaseGuid>767459ec-4c28-49f4-80d3-24854f323e83</testCaseGuid>
+</TestCaseEntity>
